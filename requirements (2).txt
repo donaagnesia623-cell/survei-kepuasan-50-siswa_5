@@ -5,5 +5,3 @@ matplotlib
 scikit-learn
 statsmodels
 openpyxl
-
-print("✅ File requirements.txt berhasil dibuat!")
